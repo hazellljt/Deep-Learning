@@ -1,2 +1,2 @@
 # Deep-Learning
-## Achieved 100% on this coursework question.
+Achieved 100% on this coursework question.
